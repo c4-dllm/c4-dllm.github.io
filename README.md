@@ -2,6 +2,10 @@
 
 Static project page for **Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models**.
 
+**Live site:** https://c4-dllm.github.io/
+
+**Repository:** https://github.com/c4-dllm/c4-dllm.github.io
+
 The page is plain HTML/CSS/JavaScript and has no build step. Its structure follows the supplied `project-page.zip` reference while the visual story and interactive decoder walkthrough are tailored to C⁴. Paper figures and the PDF are copied from the local manuscript source.
 
 ## Preview
